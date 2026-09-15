@@ -83,8 +83,8 @@ nav {
 .button,
 button {
   display: inline-block;
-  background: var(--lime);
-  color: #17342c;
+  background: var(--green);
+  color: #ffffff;
   border: none;
   border-radius: .4rem;
   padding: .8rem 1rem;
