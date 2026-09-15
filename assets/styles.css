@@ -163,7 +163,7 @@ footer {
 @media (min-width: 980px) and (max-width: 760px) {
   .hero,
   .feature-row,
-  .feature-card
+  .feature-card,
   .vendor-grid {
     grid-template-columns: 1fr;
   }
